@@ -1,6 +1,2 @@
-import std.stdio;
-
-void main()
-{
-	writeln("Edit source/app.d to start your project.");
-}
+module ithox.smtp;
+public import ithox.smtp.smtp;
